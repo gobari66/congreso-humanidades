@@ -31,3 +31,9 @@ El formulario de interés usa `mailto:`: prepara un correo en la aplicación de 
 
 ## Gratuito
 GitHub Pages permite alojar este sitio como página estática desde un repositorio público. La dirección `github.io` es un subdominio gratuito; un dominio propio normalmente tiene costo.
+
+
+### Fotografías incorporadas
+- `assets/biblioteca.jpg`: fotografía proporcionada por el organizador; fondo de la sección de presentación.
+- `assets/prometeo.jpeg`: fotografía proporcionada por el organizador; fondo de la sección de registro.
+- Catedral de Zacatecas: fotografía de Jabi28, Wikimedia Commons, licencia Creative Commons Atribución-CompartirIgual 3.0 (CC BY-SA 3.0). Se utiliza como fondo del encabezado principal; el crédito y enlace a la licencia aparecen al pie del sitio.
