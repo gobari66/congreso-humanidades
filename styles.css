@@ -14,3 +14,33 @@
 @media(max-width:420px){.topic-grid{grid-template-columns:1fr}.topic-card{min-height:0}.hero h1{font-size:38px}.hero-meta{gap:10px}.meta-label{font-size:8px}.hero-meta strong{font-size:9px}}
 
 .image-credit{padding:0 0 22px;color:#9ca7b3;font-size:10px;line-height:1.6}.image-credit a{color:#d7c294;text-decoration:underline}
+
+/* =========================================
+   FONDOS FOTOGRÁFICOS DEL CONGRESO
+   ========================================= */
+
+/* Biblioteca: presentación */
+.intro {
+    background-image:
+        linear-gradient(
+            rgba(247, 245, 239, 0.88),
+            rgba(247, 245, 239, 0.91)
+        ),
+        url("assets/biblioteca.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Prometeo: inscripción */
+.register-section {
+    background-image:
+        linear-gradient(
+            rgba(16, 31, 50, 0.78),
+            rgba(16, 31, 50, 0.86)
+        ),
+        url("assets/prometeo.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
